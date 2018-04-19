@@ -1,0 +1,37 @@
+Debug: vo: gl
+Debug: status changed  "Loaded"
+Debug: ScreenSaver::retrieveState
+Debug: Succeed to enable screen saver (0)
+Debug: track found!!!!!
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: "[ShaderManager] cache a new shader material type(10): gl material 16to8bit: 0, planar: 1, has alpha: 0, 2d texture: 1, 2nd plane rg: 0, xyz: 0"
+Debug: input yuv limited range
+Debug: creating VBO...
+Debug: creating VAO...
+Debug: vao updated
+Debug: geometry attributes changed, rebind vao...
+Debug: geometry updated
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: status changed  "Buffering..."
+Debug: status changed  "Stalled"
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Debug: status changed  "Stalled"
+Debug: status changed  "Loaded"
+Debug: Succeed to enable screen saver (0)
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: input yuv limited range
+Debug: status changed  "Buffering..."
+Debug: status changed  "Stalled"
+Debug: >>>>>>>>>>>>>>disable slider
+Debug: Succeed to enable screen saver (1)
+Debug: status changed  "Loaded"
+Debug: Succeed to enable screen saver (0)
+Debug: status changed  "Buffering..."
+Debug: status changed  "Buffered"
+Debug: sync config to  "C:/Users/bert/AppData/Roaming/Player/Player.ini"
+Debug: sync end
+Warning: ScreenSaver::restoreState: no data, doing nothing
